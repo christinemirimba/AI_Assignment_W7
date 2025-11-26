@@ -70,13 +70,7 @@ venv.bak/
 *.xlsx
 *.xls
 
-# Generated outputs (can be regenerated)
-*.png
-*.jpg
-*.jpeg
-*.pdf
-*.txt
-*.log
+
 
 # OS generated files
 .DS_Store
